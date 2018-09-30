@@ -46,6 +46,11 @@ if(message = 2){
 
 Step 6 : Connect the HC-06 Bluetooth Module and a 5V Relay Module by following the diagram given below.
 
+![](Images/Arduino%20Pin%20Layout.png)
+
+
+
+
 Step 7 : Your Arduino is all set up! Follow the app guide to complete the setup process.
 
 ---
@@ -92,7 +97,7 @@ if (data == 1):
 
 Step 8 : Refer the following diagram to connect a relay module to your Raspberry Pi.
 
-![](Raspberry%20Pi%20Pin%20Layout.png)
+![](Images/Raspberry%20Pi%20Pin%20Layout.png)
 
 
 
@@ -118,7 +123,7 @@ Step 7 : You're all set up! You can now control your devices using your smartpho
 ---
 
 ## Contributors 
-P Sujay Surendranath
-Sahil Nair
-Sharayu Mhaske
+P Sujay Surendranath  
+Sahil Nair  
+Sharayu Mhaske  
 Adhishree Vast
