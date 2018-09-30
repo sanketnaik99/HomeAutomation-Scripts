@@ -92,7 +92,9 @@ if (data == 1):
 
 Step 8 : Refer the following diagram to connect a relay module to your Raspberry Pi.
 
-![]
+![](Raspberry%20Pi%20Pin%20Layout.png)
+
+
 
 Step 9 : Your Raspberry Pi is all set up! Follow the app guide to complete the setup process.
 
