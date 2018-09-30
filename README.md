@@ -110,13 +110,27 @@ Step 1 : Once you've set up your Arduino Board or Raspberry Pi, download the app
 
 Step 2 : Open the app and click on the settings tab.
 
+<img src="https://github.com/sanketnaik99/HomeAutomation-Scripts/blob/master/Images/Step-1.png" width="300">
+
+  
+
 Step 3 : Click on the Add Button option.
 
+<img src="https://github.com/sanketnaik99/HomeAutomation-Scripts/blob/master/Images/Step-2.png" width="300">
+  
+
+
 Step 4 : Give a suitable name for the Device, then select the type of the device and finally enter the value that it corresponds to in your Arduino or Raspberry Pi script.
+
+<img src="https://github.com/sanketnaik99/HomeAutomation-Scripts/blob/master/Images/Step-3.png" width="250"><img src="https://github.com/sanketnaik99/HomeAutomation-Scripts/blob/master/Images/Step-4.png" width="250"><img src="https://github.com/sanketnaik99/HomeAutomation-Scripts/blob/master/Images/Step-5.png" width="250">
+  
 
 Step 5 : The button should now appear on the Home Screen.
 
 Step 6 : Click on the Connect to a device button to connect your Raspberry Pi or your HC-06 Module ( the PIN for the HC-06 Module is usually 1234 )
+
+<img src="https://github.com/sanketnaik99/HomeAutomation-Scripts/blob/master/Images/Step-6.png" width="300"><img src="https://github.com/sanketnaik99/HomeAutomation-Scripts/blob/master/Images/Step-7.png" width="300">
+
 
 Step 7 : You're all set up! You can now control your devices using your smartphone. 
 
