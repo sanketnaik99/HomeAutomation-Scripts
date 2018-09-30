@@ -1,6 +1,7 @@
 # Home Automation Scripts
 **Version 1.0**
-The Raspberry Pi and Arduino compatible scripts for communicating with the Home Automation App
+
+### The Raspberry Pi and Arduino compatible scripts for communicating with the Home Automation App
 ---
 # Overview 
 These scripts are written to work with the Home Automation App and are compatible with all Arduino Boards paired with an HC-06 Bluetooth Module on a Raspberry Pi Model 3+ ( also works with previous Raspberry Pi Models but a Bluetooth Dongle is required ). To run these Scripts simply download them from this repository and follow the steps for the respective platform to run them.
