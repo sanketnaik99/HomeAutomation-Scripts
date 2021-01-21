@@ -1,5 +1,5 @@
 # Home Automation Scripts
-**Version 1.0**
+![Version](https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge) &nbsp;&nbsp; ![Website](https://img.shields.io/website?label=Get%20the%20App&logo=Google%20Play&style=for-the-badge&up_color=blueviolet&up_message=Play%20Store&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.echo.homeautomation)
 
 ### The Raspberry Pi and Arduino compatible scripts for communicating with the Home Automation App
 ---
